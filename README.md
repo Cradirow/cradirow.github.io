@@ -1,2 +1,3 @@
-# cradirow.github.io
-trouble shooting, development history and chatting comments...
+# GIT Blog Launch
+
+[Go to BLOG!](https://cradirow.github.io)
